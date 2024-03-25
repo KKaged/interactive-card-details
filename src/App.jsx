@@ -1,6 +1,6 @@
 import Input from "./components/Input";
 import "./App.css";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Card from "./components/Card";
 import Security from "./components/Security";
 
